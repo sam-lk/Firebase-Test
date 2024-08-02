@@ -1,0 +1,23 @@
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\bin\Debug\Firebase Test.exe.config
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\bin\Debug\Firebase Test.exe
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\bin\Debug\Firebase Test.pdb
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\bin\Debug\Telerik.WinControls.dll
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\bin\Debug\TelerikCommon.dll
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\bin\Debug\Telerik.WinControls.xml
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\obj\Debug\Firebase_Test.Form1.resources
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\obj\Debug\Firebase_Test.Properties.Resources.resources
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\obj\Debug\Firebase Test.csproj.GenerateResource.cache
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\obj\Debug\Firebase Test.exe.licenses
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\obj\Debug\Firebase Test.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\obj\Debug\Firebase Test.csproj.CopyComplete
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\obj\Debug\Firebase Test.exe
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\obj\Debug\Firebase Test.pdb
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\bin\Debug\FireSharp.dll
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\bin\Debug\RestSharp.dll
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\bin\Debug\RestSharp.xml
+C:\Users\Sam\Desktop\Office\Firebase Testing Apps\Firebase Test\Firebase Test\obj\Debug\Firebase Test.csprojAssemblyReference.cache
