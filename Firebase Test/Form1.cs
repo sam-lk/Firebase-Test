@@ -21,7 +21,7 @@ namespace Firebase_Test
         //======== CONFIG FIREBASE SETTIGNs
         IFirebaseConfig config = new FirebaseConfig
         {
-            AuthSecret = "WFxhKTYq4m5JCvXiCCAGG2l1rpTTfjUFBLTr835NGFDFG",
+            AuthSecret = "WFxhKTYq4m5JCvXiCCAGG2l1rpTTfjUFBLTDF35NGFDFGDFS",
             BasePath = "https://fir-test-5996a.firebaseioss.com/"
         };
 
